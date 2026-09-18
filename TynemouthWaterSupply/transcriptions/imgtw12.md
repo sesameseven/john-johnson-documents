@@ -1,4 +1,5 @@
-I2
+## 12
+[← Page 11](imgtw11.md) 
 
 water, and it is probable, if the tests were repeated under conditions more nearly alike, the results.
 would be different. But lead solvent action of peaty waters may be stopped by simple processes. Ten
@@ -44,7 +45,9 @@ I am, Gentlemen,
 
 Your obedient Servant,
 
-J. EDWARD GOFTON,
+### J. EDWARD GOFTON,
 
 Medical Officer of Health
-      
+
+ [← Page 11](imgtw11.md) 
+
