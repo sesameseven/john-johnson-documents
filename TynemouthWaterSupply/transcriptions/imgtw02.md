@@ -1,5 +1,5 @@
 ## 2
-[← Page 1](imgtw01.md)  [→ Page 3](imgtw03.md)
+*← Previous: [Page 01](imgtw01.md); Next: → [Page 03](imgtw03.md); Back to: [Index](../combined.md)*
 
 "We would strongly call attention to the remarkable tendency that towns in the
 manufacturing districts have to arrange themselves in groups. Take for example
@@ -59,4 +59,5 @@ Company still fell far short of the reasonable requirements of its district, and
 pressure was brought to bear upon the Company to induce it to purchase still more
 water from the Newcastle Company.
 
-[← Page 1](imgtw01.md)  [→ Page 3](imgtw03.md)
+*← Previous: [Page 01](imgtw01.md); Next: → [Page 03](imgtw03.md); Back to: [Index](../combined.md)*
+
