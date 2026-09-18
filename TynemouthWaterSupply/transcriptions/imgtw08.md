@@ -1,4 +1,5 @@
-8
+## 8
+[← Page 7](imgtw07.md)  [→ Page 9](imgtw09.md)
 
 If the Font scheme is adopted the following are likely to be the financial results in the years mentioned.
 | 1. |2.  |3. |4.  |5. |6. |7.|
@@ -16,3 +17,5 @@ To the amounts shown in column No. 2 there will have to be added the annual paym
 From the foregoing figures it is quite clear that, if the Font scheme should be carried out and Tynemouth alone is supplied from that source, an exceedingly heavy annual deficit, which must be met out of the rates, would have to be borne, possibly for thirty years; but, on the other hand, if a vend for the surplus water at, say, sixpence per thousand gallons could be obtained, the scheme would involve little or no loss, and would in the course of time be a source of profit. It is not at all likely that the whole of the surplus water would at first be disposed of, but it will be seen that a considerable reduction could be admitted upon the estimated receipts from the sale of the surplus water, and an ample profit upon the whole transaction still be left. It must also be remembered that in fifty years the annual charge in respect of the capital of £330,000 would be no longer to pay and the annual expenditure would then be diminished by no less than £11,000, plus the annual payments in respect of the purchase of the present waterworks which will then have come to an end. Fifty years is a long time to look forward to, but it is no longer than is usual in schemes of this description, and should this one be carried out, then after the lapse of that time Tynemouth would be the possessor of a very valuable property in the shape of a Waterworks almost free from debt.
 
 As the success of the Font scheme at the outset depends entirely upon securing a sale for the water which will be at disposal after the wants of Tynemouth are supplied, the question at once arises, What prospect is there of such a sale being obtained?
+
+[← Page 7](imgtw07.md)  [→ Page 9](imgtw09.md)
