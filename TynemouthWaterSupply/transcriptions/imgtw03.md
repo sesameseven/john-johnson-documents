@@ -1,5 +1,5 @@
-3
-
+## 3
+[← Page 2](imgtw02.md)  [→ Page 4](imgtw04.md)
 This the Company did, and the supply from the Newcastle Company’s sources was
 increased by from 200,000 to 300,000 gallons per day beyond the quantity
 stipulated in the agreement. Nevertheless the district of Tynemouth was still
@@ -63,3 +63,4 @@ given to the Lords’ Committee forms part of the Act, and that its non-fulfilme
 will involve a loss to the Corporation of the powers which the Act would
 otherwise confer upon it. That is not so. The Act makes no reference whatever to
 the pledge.
+[← Page 2](imgtw02.md)  [→ Page 4](imgtw04.md)
