@@ -38,9 +38,13 @@ necessitated considerable modificatians of the provisional opinions then express
 it fully justifies the belief that, subject to proper treatment, the water of the Font is suitable for a
 town supply.
 
-* * * * * *
+  * * * * * *
 
 I am, Gentlemen,
-Your obedient Servant,
-J. EDWARD GOFTON,
-Medical Officer of Health
+
+  Your obedient Servant,
+  
+    J. EDWARD GOFTON,
+    
+      Medical Officer of Health
+      
