@@ -1,5 +1,6 @@
-## 12
-[← Page 11](imgtw11.md) 
+## Page 12
+
+*← Previous: [Page 11](imgtw11.md); Back to [Index](../combined.md)*
 
 water, and it is probable, if the tests were repeated under conditions more nearly alike, the results.
 would be different. But lead solvent action of peaty waters may be stopped by simple processes. Ten
@@ -49,5 +50,5 @@ Your obedient Servant,
 
 Medical Officer of Health
 
- [← Page 11](imgtw11.md) 
+*← Previous: [Page 11](imgtw11.md); Back to [Index](../combined.md)*
 
