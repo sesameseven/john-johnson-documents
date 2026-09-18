@@ -1,3 +1,6 @@
+## 6
+[← Page 5](imgtw05.md)  [→ Page 7](imgtw07.md)
+
 greater distance, for reasons which would in all likelihood be called purely
 sentimental. It must also be remembered that the yield of the Alwin is no more
 than, if it is as much as, that of the River Font.
@@ -37,6 +40,8 @@ now has in hand the Newcastle Company will have storage for five thousand
 million gallons, and that it is unlikely that for many years the quantity of
 water in store can fall as low as eight hundred million gallons, but it is not
 certain that such a contingency will not occur.
+[← Page 5](imgtw05.md)  [→ Page 7](imgtw07.md)
+
 
 If the rate of increase of population in the area supplied by the Newcastle Co.
 between the years 1891–1908 corresponds with that of 1881–91 the population will
