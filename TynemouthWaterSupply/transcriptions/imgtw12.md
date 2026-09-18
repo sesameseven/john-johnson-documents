@@ -42,9 +42,9 @@ town supply.
 
 I am, Gentlemen,
 
-  Your obedient Servant,
-  
-    J. EDWARD GOFTON,
-    
-      Medical Officer of Health
+Your obedient Servant,
+
+J. EDWARD GOFTON,
+
+Medical Officer of Health
       
