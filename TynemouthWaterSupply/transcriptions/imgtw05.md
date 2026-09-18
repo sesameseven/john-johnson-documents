@@ -1,5 +1,6 @@
-## 5
-[← Page 4](imgtw04.md)  [→ Page 6](imgtw06.md)
+## Page 05
+
+*← Previous: [Page 04](imgtw04.md); Next → [Page 06](imgtw06.md); Back to [Index](../combined.md)*
 
 Moorhouses, from which the supply to the District would be distributed. The
 estimated available average daily yield of the watershed is four million gallons,
@@ -64,4 +65,5 @@ opposed, and it is not very probable that Parliament would allow Tynemouth to
 pass by one source of supply, which yields water equal in quality to that with
 which the half of Yorkshire is supplied, to go to another at a much
 
-[← Page 4](imgtw04.md)  [→ Page 6](imgtw06.md)
+*← Previous: [Page 04](imgtw04.md); Next → [Page 06](imgtw06.md); Back to [Index](../combined.md)*
+
