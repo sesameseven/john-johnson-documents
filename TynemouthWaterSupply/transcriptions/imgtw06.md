@@ -1,5 +1,6 @@
-## 6
-[← Page 5](imgtw05.md)  [→ Page 7](imgtw07.md)
+## Page 06
+
+*← Previous: [Page 05](imgtw05.md); Next → [Page 07](imgtw07.md); Back to [Index](../combined.md)*
 
 greater distance, for reasons which would in all likelihood be called purely
 sentimental. It must also be remembered that the yield of the Alwin is no more
@@ -51,3 +52,5 @@ continued to be supplied at the present daily rate per head, will be equal to
 continuous draw upon the Company’s reservoirs for 243 days, there not being an
 increase recorded upon a single day during that time. The chance of Tynemouth
 being cut off from the
+
+*← Previous: [Page 05](imgtw05.md); Next → [Page 07](imgtw07.md); Back to [Index](../combined.md)*
