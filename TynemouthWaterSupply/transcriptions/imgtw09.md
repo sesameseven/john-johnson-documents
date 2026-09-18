@@ -47,5 +47,5 @@ cheapest terms possible to the Company, and Tynemouth, if such terms of supply s
 favourable than those it could otherwise obtain for itself by getting water from an independent source,
 could accept the Company's terms and withdraw its Bill. If the Company's terms however were not
 so favourable, then Tynemouth would persevere with its Bill. It is evident that Tynemouth may
-therefore occupy amost advantageous position, and votain, taking all things into consideration, a
+therefore occupy amost advantageous position, and obtain, taking all things into consideration, a
 water supply at the cheapest possible rate instead of probably at the dearest.
