@@ -1,3 +1,7 @@
+## Page 01
+
+*Next → [Page 02](imgtw02.md); Back to [Index](../combined.md)*
+
 Borough Surveyor’s Office,
 Tynemouth,
 1st November, 1897.
@@ -45,4 +49,5 @@ In 1869 the Royal Commission, which had been appointed to enquire into the water
 supply of this country, published its Report and the following which bears
 directly upon this matter is an extract from that Report.
 
-[←: cover](imgtw00.md)  [→ Page 2](imgtw02.md)
+*Next → [Page 02](imgtw02.md); Back to [Index](../combined.md)*
+
