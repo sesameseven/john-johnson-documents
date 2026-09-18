@@ -1,5 +1,6 @@
-## 7
-[← Page 6](imgtw06.md)  [→ Page 8](imgtw08.md)
+## Page 07
+
+*← Previous: [Page 06](imgtw06.md); Next → [Page 08](imgtw08.md); Back to [Index](../combined.md)*
 
 | Year   |          1901 |   1911 |   1921 |   1931 |   1941 |   1951 |
 | -----  | ----:  |  -----:  | ----:  |  -----:  | ----:  |  -----:  |
@@ -20,4 +21,4 @@ To the several annual deficits which here appear, and which must be made good ou
 
 If, therefore, resort is had to the Newcastle Company for a supply, Tynemouth will have before it not only the possibility of having that supply cut off at any time during a dry season (just when a copious supply is most required), but also the prospect of having to make good out of the rates, for at least a generation, a heavy annual deficit upon the water undertaking, and at the end of that time, being as far from having an independent water supply as it is at present. That is one alternative which Tynemouth has before it.
 
-[← Page 6](imgtw06.md)  [→ Page 8](imgtw08.md)
+*← Previous: [Page 06](imgtw06.md); Next → [Page 08](imgtw08.md); Back to [Index](../combined.md)*
