@@ -1,5 +1,6 @@
-## 9
-[← Page 8](imgtw08.md)  [→ Page 10](imgtw10.md)
+## Page 09
+
+*← Previous: [Page 08](imgtw08.md); Next → [Page 10](imgtw10.md); Back to [Index](../combined.md)*
 
 Now between the northern limits of the Borough of Tynemouth and the River Blyth, (that is
 in the district through which the gravitation main from the Font must pass) there is a population of
@@ -51,4 +52,5 @@ so favourable, then Tynemouth would persevere with its Bill. It is evident that 
 therefore occupy amost advantageous position, and obtain, taking all things into consideration, a
 water supply at the cheapest possible rate instead of probably at the dearest.
 
-[← Page 8](imgtw08.md)  [→ Page 10](imgtw10.md)
+*← Previous: [Page 08](imgtw08.md); Next → [Page 10](imgtw10.md); Back to [Index](../combined.md)*
+
