@@ -1,4 +1,4 @@
-## 2
+## Page 02
 *← Previous: [Page 01](imgtw01.md); Next: → [Page 03](imgtw03.md); Back to: [Index](../combined.md)*
 
 "We would strongly call attention to the remarkable tendency that towns in the
