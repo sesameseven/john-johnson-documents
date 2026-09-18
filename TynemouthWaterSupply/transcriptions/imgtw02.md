@@ -57,3 +57,5 @@ additional supply, however, the quantity at the disposal of the North Shields
 Company still fell far short of the reasonable requirements of its district, and
 pressure was brought to bear upon the Company to induce it to purchase still more
 water from the Newcastle Company.
+
+[←: Page 1](imgtw01.md)  [→ Page 3](imgtw03.md)
