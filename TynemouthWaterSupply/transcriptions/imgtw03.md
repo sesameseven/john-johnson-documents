@@ -54,7 +54,7 @@ promise to improve the supply.” What else could the representatives of the
 Corporation do but give the promise asked for? If they had not, the impression
 left upon the minds, not only of the Lords’ Committee, but of the general public
 of the Borough of Tynemouth, would have been that the action of the Corporation
-was mala fide, that there was no real intention of materially and permanently
+was *mala fide*, that there was no real intention of materially and permanently
 improving the water supply, and that the desire to get possession of the Water
 Company’s works arose from simple aggressiveness.
 
