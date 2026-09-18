@@ -1,4 +1,5 @@
-4
+## 4
+[← Page 3](imgtw03.md)  [→ Page 5](imgtw05.md)
 
   Immediately after the Bill passed the House of Lords' Committee the Town Council was
 formally made aware of what had transpired in the Lords' Committee Room, and the action of the
@@ -51,3 +52,5 @@ Wansbeck at Mitford.
 about 790 million gallons, and the filter beds, would be constructed about a quarter of a mile to the
 west of the railway viaduct before mentioned, and from there water would be delivered by gravi-
 tation in iron pipes over a distance of about 25 miles to a service reservoir in the neighbourhood of
+
+[← Page 3](imgtw03.md)  [→ Page 5](imgtw05.md)
