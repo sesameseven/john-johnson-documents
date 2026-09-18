@@ -1,5 +1,6 @@
-## 8
-[← Page 7](imgtw07.md)  [→ Page 9](imgtw09.md)
+## Page 08
+
+*← Previous: [Page 07](imgtw07.md); Next → [Page 09](imgtw09.md); Back to [Index](../combined.md)*
 
 If the Font scheme is adopted the following are likely to be the financial results in the years mentioned.
 | 1. |2.  |3. |4.  |5. |6. |7.|
@@ -18,4 +19,5 @@ From the foregoing figures it is quite clear that, if the Font scheme should be 
 
 As the success of the Font scheme at the outset depends entirely upon securing a sale for the water which will be at disposal after the wants of Tynemouth are supplied, the question at once arises, What prospect is there of such a sale being obtained?
 
-[← Page 7](imgtw07.md)  [→ Page 9](imgtw09.md)
+*← Previous: [Page 07](imgtw07.md); Next → [Page 09](imgtw09.md); Back to [Index](../combined.md)*
+
