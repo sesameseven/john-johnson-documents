@@ -1,5 +1,6 @@
-## 11
-[← Page 10](imgtw10.md)  [→ Page 12](imgtw12.md)
+## Page 11
+
+*← Previous: [Page 10](imgtw10.md); Next → [Page 12](imgtw12.md); Back to [Index](../combined.md)*
 
 But while rainfall caused a decrease of mineral matter in solution, it caused an increase of all the organic impurities, such as ammonia, albuminoid ammonia, and nitrogen, and in the amount of oxygen absorbed: the water became of a marked brownish colour in the worst sample, and its action on lead was rather vigorous. The total amount of organic impurity is large, but considering that its origin is the peaty gathering ground, and that the water is very little exposed to pollution by excrement or other animal refuse, not enough to condemn it. The colour is, however, objectionable, and probably would be objected to by consumers, unless it could be removed, and this, I understand, can be largely if not entirely effected. It cannot be regarded as a high class water, such as Tosson, but it is certainly passable, and would be much improved by settling and filtration. It is very similar in its sources and character to moorland waters, which are supplied to large populations in the West Riding, Lancashire, and in other places nearer home, without ill effects, except that due to its action on lead—a matter to which I shall refer again.
 
@@ -13,5 +14,5 @@ A mass of information has been collected by the Local Government Board as to lea
 
 One or two points in Messrs. Pattinson’s reports remain to be noticed. They compare the action of these waters with that of Newcastle water on lead, and the latter was drawn from the mains in their laboratory. The moorland water of the Newcastle Company is usually, if not always, mixed with water from non-peaty sources, and is filtered before distribution. The conditions of the tests were, therefore, wholly unfavourable to the Font water, which was tested as taken from the stream, without either exposure to the action of air and sunlight in a reservoir, filtration or mixture with other
 
-[← Page 10](imgtw10.md)  [→ Page 12](imgtw12.md)
+*← Previous: [Page 10](imgtw10.md); Next → [Page 12](imgtw12.md); Back to [Index](../combined.md)*
 
