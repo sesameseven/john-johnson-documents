@@ -1,4 +1,5 @@
-7
+## 7
+[← Page 6](imgtw06.md)  [→ Page 8](imgtw08.md)
 
 | Year   |          1901 |   1911 |   1921 |   1931 |   1941 |   1951 |
 | -----  | ----:  |  -----:  | ----:  |  -----:  | ----:  |  -----:  |
@@ -18,3 +19,5 @@
 To the several annual deficits which here appear, and which must be made good out of the rates, there must be added the interest upon the sum expended in purchasing the North Shields Company's undertaking, and the yearly instalments towards the redemption of that sum. This, of course, cannot be given, as the value of the undertaking has not yet been determined, but whatever it may be, it must add largely to the deficits which are here approximately estimated.
 
 If, therefore, resort is had to the Newcastle Company for a supply, Tynemouth will have before it not only the possibility of having that supply cut off at any time during a dry season (just when a copious supply is most required), but also the prospect of having to make good out of the rates, for at least a generation, a heavy annual deficit upon the water undertaking, and at the end of that time, being as far from having an independent water supply as it is at present. That is one alternative which Tynemouth has before it.
+
+[← Page 6](imgtw06.md)  [→ Page 8](imgtw08.md)
