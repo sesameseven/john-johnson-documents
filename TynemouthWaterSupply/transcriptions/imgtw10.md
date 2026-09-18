@@ -1,5 +1,6 @@
-## 10
-[← Page 9](imgtw09.md)  [→ Page 11](imgtw11.md)
+## Page 10
+
+*← Previous: [Page 09](imgtw09.md); Next → [Page 11](imgtw11.md); Back to [Index](../combined.md)*
 
 In conclusion, it has transpired within the past few days, that the Newcastle
 Company is going to Parliament also to obtain powers to draw a supply of
@@ -53,5 +54,4 @@ of hardness—that which remains after boiling—scarcely varied, and in every
 case was small. They may fairly be classed as soft waters, and on that
 point no objection can be raised to them.
 
-[← Page 9](imgtw09.md)  [→ Page 11](imgtw11.md)
-
+*← Previous: [Page 09](imgtw09.md); Next → [Page 11](imgtw11.md); Back to [Index](../combined.md)*
