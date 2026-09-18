@@ -1,3 +1,6 @@
+## 10
+[← Page 9](imgtw09.md)  [→ Page 11](imgtw11.md)
+
 In conclusion, it has transpired within the past few days, that the Newcastle
 Company is going to Parliament also to obtain powers to draw a supply of
 water from the Font. Here, therefore, is another weighty reason for
@@ -49,3 +52,6 @@ were greatest in dry weather; but the permanent and most objectionable form
 of hardness—that which remains after boiling—scarcely varied, and in every
 case was small. They may fairly be classed as soft waters, and on that
 point no objection can be raised to them.
+
+[← Page 9](imgtw09.md)  [→ Page 11](imgtw11.md)
+
