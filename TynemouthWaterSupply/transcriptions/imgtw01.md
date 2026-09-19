@@ -2,6 +2,15 @@
 
 *Next → [Page 02](imgtw02.md); Back to [Index](../combined.md)*
 
+<p align="center">
+  <a href="../originals/imgtw00s.jpg">
+    <img src="../originals/imgtw00s.jpg" alt="Municipal borough of Tynemouth" width="120">
+  </a>
+</p>
+
+<p align="center"><em>Municipal borough of Tynemouth</em></p>
+
+
 Borough Surveyor’s Office,
 Tynemouth,
 1st November, 1897.
