@@ -4,6 +4,13 @@ This repository contains page‑by‑page transcriptions taken from the 12 scann
 
 The purpose of this combined file is to provide a single navigational index linking to each individual page transcription stored in the `transcriptions/` directory.
 
+<p align="center">
+  <a href="originals/imgtw00.jpg">
+    <img src="originals/imgtw00.jpg" alt="Municipal borough of Tynemouth" width="620">
+  </a>
+</p>
+
+<p align="center"><em>Municipal borough of Tynemouth</em></p>
 ---
 
 ## Index of Pages
