@@ -33,22 +33,23 @@ S = Hydraulic gradient = H/L.
 
 The values of C given by Hazen–Williams are C = 130 for a pipe in perfect condition and 100 for a pipe in good condition. In the case of Chezy’s formula:—
 
-C = 97 for a pipe in perfect condition.
-= 86 „ „ good „
-= 77 „ „ fair „
+    C = 97 for a pipe in perfect condition.
+    = 86 „ „ good „
+    = 77 „ „ fair „
 
 The Eytelwein formula is for a pipe in perfect condition.
 
 FLOW IN GALLONS PER MINUTE
 
 | Formula          | Perfect | Average | Good | Average | Fair |
-|------------------|---------|---------|------|---------|------|
-| Hazen–Williams   | 503     |         | 387  | 386     | 346  |
-| Chezy            | 437     | 463     | 385  |         |      |
-| Eytelwein        | 450     |         |      |         |      |
+|------------------|--------:|:-------:|------:|:---------:|------|
+| Hazen–Williams   | 503)     |         | 387)  | 386     | 346  |
+| Chezy            | 437)     | 463     | 385)  |         |      |
+| Eytelwein        | 450)     |         |      |         |      |
 
 The actual discharge of the eight-inch main as measured over a “V” notch shortly after the installation of the pipe line was 417 gallons per minute. This result corresponds with a value of C as follows:—
 
-Hazen–Williams — C = 108.
-Chezy — C = 93.
+    Hazen–Williams — C = 108.
+    Chezy — C = 93.
+
 and with a constant of 0.0727 in the Eytelwein formula.
