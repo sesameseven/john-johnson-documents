@@ -18,9 +18,9 @@ SCHEDULE OF DETAIL COSTS OF SECTIONS OF THE WORKS AND UNIT COSTS.
 |Cost of domestic services to 31/12/25           | £586 15s 7d   | £1,439 9s 2d    | £2,026 4s 9d |
 |Maintenance to 31/12/25                         | £328 14s 4d   | —              | £328 14s 4d |
 | *Sub Total* | £10,305 15s 6d | £27,121 18s 11d | £37,427 14s 5d |
-| Salaries and Allowances for European Supervision | | | £945 3s 4d |
-| Railway Freight on materials | | | £6,957 7s 2d |
+| †Salaries and Allowances for European Supervision | | | £945 3s 4d |
+| †Railway Freight on materials | | | £6,957 7s 2d |
 | *Grand Total* | | | £45,330 4s 11d |
 
-Notes:
+†
 These items were not paid from the funds allocated for the work; but from the relative votes in the recurrent and Extraordinary Estimates respectively.
