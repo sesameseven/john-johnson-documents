@@ -21,7 +21,7 @@ APPENDIX "A"
 
 CHEMICAL ANALYSIS OF A SAMPLE OF WATER FROM THE NGWO SPRINGS.
 
-| Result of Analysis. | Parts per 100,000. |
+| Result of Analysis. | Parts per 100,000 |
 | ------------------- | ------------------:|
 | Saline Ammonia | 0.002 |
 | Albuminoid Ammonia | 0.002 |
@@ -36,7 +36,7 @@ CHEMICAL ANALYSIS OF A SAMPLE OF WATER FROM THE NGWO SPRINGS.
 | Lime (CaO) | 2.2 |
 | Magnesia (MgO) | Trace |
 
-Analyst's Remarks.
+Analyst's Remarks:-
 
 1. The above figures indicate that the water is suitable for domestic use.
 2. The water contains nothing in solution which would act on steel.
