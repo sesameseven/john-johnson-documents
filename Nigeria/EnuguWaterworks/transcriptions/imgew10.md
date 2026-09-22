@@ -1,4 +1,5 @@
 ## Page10
+← Previous: [Page 09](imgew09.md); Next: → [Page 11](imgew11.md); Back to: [Index](../combined.md)
 
 Present Consumption (April 1928) is as follows:—
 | | gallons per day|
@@ -31,3 +32,5 @@ The following table summarizes the present consumption and indicates possible so
 
 \* Paper charges suggested.
 † Theoretical revenue.
+
+← Previous: [Page 09](imgew09.md); Next: → [Page 11](imgew11.md); Back to: [Index](../combined.md)
