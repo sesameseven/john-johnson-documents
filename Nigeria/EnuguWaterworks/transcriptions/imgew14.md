@@ -1,7 +1,7 @@
 ## Page14
+← Previous: [Page 13](imgew13.md); Next: → [Index](../combined.md); Back to: [Index](../combined.md)
 
 ### ENUGU WATERWORKS CONSTRUCTION: SCHEDULE OF UNIT COSTS.
-
 
 |EARTHWORKS. | | | |
 |---- | ---- | ---- | ---- |
@@ -26,3 +26,6 @@
 | | | 3" " | 7/1 " |
 
 N.B.—The Cost for mains includes the value of broken and cracked pipes.
+
+← Previous: [Page 13](imgew13.md); Next: → [Index](../combined.md); Back to: [Index](../combined.md)
+
