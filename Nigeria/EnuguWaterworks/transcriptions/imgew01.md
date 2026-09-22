@@ -1,5 +1,8 @@
-A DESCRIPTION OF THE ENUGU WATERWORKS.
+## Page 01
+← Previous: [Index](../combined.md); Next: → [Page 02](imgew02.md); Back to: [Index](../combined.md)
 
+# A DESCRIPTION OF THE ENUGU WATERWORKS.
+ 
 The Township of Enugu is situated at the foot of the eastern escarpment of the Udi Plateau in the Nigerian Coalfield. It is on the line of the Eastern Railway 151 miles north of Port Harcourt.
 
 GEOLOGY.
@@ -15,3 +18,5 @@ The source of supply for the Enugu Waterworks is the Ngwo grotto, which is situa
 The spring water emanates from an underground reservoir formed by seepage of rain through the porous sands of the gathering ground above the grotto. That the area of this storage is extensive is indicated by the fact that after a wet season below the average, and an exceptionally dry season such as that of 1925-26 the supply during April and May, 1926, registered only 10% below that obtained by gaugings during the preliminary investigations in 1923.
 
 The drainage ground rises very steeply above the grotto and is not inhabited, so that the water passing through the slow sand filter formed by the sandstone may reasonably be assumed bacteriologically pure. This assumption, however, has not yet been definitely established owing to the difficulty of getting samples to Lagos. Details of chemical analyses are given in Appendix "A". These analyses disclose a high percentage of acidity, which has the effect of causing corrosion in the pipes and consequent
+
+ ← Previous: [Index](../combined.md); Next: → [Page 02](imgew02.md); Back to: [Index](../combined.md)
