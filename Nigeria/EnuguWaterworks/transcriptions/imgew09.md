@@ -1,4 +1,5 @@
 ## Page09
+← Previous: [Page 08](imgew08.md); Next: → [Page 10](imgew10.md); Back to: [Index](../combined.md)
 
 POPULATION AND CONSUMPTION
 
@@ -33,3 +34,5 @@ Capital expenditure on works, excluding preliminary investigation the cost of wh
 | Annual Charges on Capital (Interest and Depreciation) at 7% | | £2,843 0 0 |
 | Annual Maintenance Charges | | £400 0 0 |
 | | | £3,243 0 0 |
+
+← Previous: [Page 08](imgew08.md); Next: → [Page 10](imgew10.md); Back to: [Index](../combined.md)
