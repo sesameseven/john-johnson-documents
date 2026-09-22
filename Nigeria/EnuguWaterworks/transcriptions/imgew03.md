@@ -1,4 +1,5 @@
 ## Page03
+*← Previous: [Page 02](imgew02.md); Next: → [Page 04](imgew04.md); Back to: [Index](../combined.md)*
 
 as the others and large boulders were subsequently placed under the walls and the whole caisson filled in with broken stone. In order to prevent settlement the walls above this caisson were cantilevered from the wall of the adjoining caisson which was firmly founded on the sandstone. The reinforcement used was steel rails—two in each wall, and no settlement has occurred. The side walls of the gallery were constructed in mass concrete nine inches thick spanned internally by arches at intervals of eleven feet six inches. The gallery is covered with a reinforced concrete slab six inches in thickness.
 
@@ -8,3 +9,4 @@ The total area of the main gallery is 350 square feet and the average rate of fl
 
 The rate of flow from this gallery was insufficient and it was necessary to augment the flow by constructing a second instalment of galleries higher up the grotto. The second instalment consists of three galleries three feet six inches deep and four feet wide (Fig. 5). These galleries are covered with a reinforced concrete slab and are constructed five feet six inches below the bed of the grotto. Downstream of each gallery, at a distance of fifty feet, a wall of dry rubble was built across the grotto to form a sand trap and to prevent the galleries from being scoured out by flood water. The concrete of the upstream walls of these galleries was not rammed too tightly, consequently they are porous and permit of seepage into the gallery. The upper galleries are connected with each other and with the main gallery by a six-inch diameter cast-iron pipe. (Fig. 1).
 
+*← Previous: [Page 02](imgew02.md); Next: → [Page 04](imgew04.md); Back to: [Index](../combined.md)*
