@@ -1,4 +1,5 @@
 ## Page07
+← Previous: [Page 06](imgew06.md); Next: → [Page 08](imgew08.md); Back to: [Index](../combined.md)
 
 The receiving tank is provided with an overflow at the same level as that of the reservoir, and the ten-inch pipe connecting the receiving tank and reservoir is fitted with a branch from which a ten-inch pipe connects with the pipe leading from the reservoir outlet. When shut down for cleaning, the reservoir can be “by-passed” by this pipe, the receiving tank acting as a reservoir for the time being. Figure 9 shows the arrangement of gauge and receiving tanks and piping in relation to the reservoir.
 
@@ -11,3 +12,5 @@ The face wall of bricks is toothed into the concrete at intervals of four course
 The walls were finished off with two three-quarter-inch coats of 3 : 1 cement render, but the floor was screeded off to a finished surface when laying and was not rendered. After filling, the reservoir was left standing for five days, when it was found that the loss was 5,000 gallons approximating to 0.25 gallons per square foot of wetted surface. This loss was due to absorption and has not recurred.
 
 The reservoir roof is five inches thick, reinforced with No. 6 B.R.C. fabric. It is carried on reinforced concrete beams sixteen inches wide and twenty-eight inches deep, spaced at intervals of twenty feet centres in one direction and ten feet centres in the other. The beams were not continuous and a coating of bitumen was applied to the top of them to prevent adhesion of the roof,
+
+← Previous: [Page 06](imgew06.md); Next: → [Page 08](imgew08.md); Back to: [Index](../combined.md)
