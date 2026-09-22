@@ -1,4 +1,5 @@
 ## Page05 
+← Previous: [Page 04](imgew04.md); Next: → [Page 06](imgew06.md); Back to: [Index](../combined.md)
 
 The following table is a comparison of the formulae of various authorities for the calculation of the flow through pipes. The formulae considered are:—
 
@@ -53,3 +54,5 @@ The actual discharge of the eight-inch main as measured over a “V” notch sho
     Chezy — C = 93.
 
 and with a constant of 0.0727 in the Eytelwein formula.
+
+← Previous: [Page 04](imgew04.md); Next: → [Page 06](imgew06.md); Back to: [Index](../combined.md)
