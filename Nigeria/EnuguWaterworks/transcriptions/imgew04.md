@@ -1,4 +1,5 @@
 ## Page04
+← Previous: [Page 03](imgew03.md); Next: → [Page 05](imgew05.md); Back to: [Index](../combined.md)
 
 The total length of the smaller galleries is sixty feet and the yield from them is 175 gallons per minute. Assuming that twenty-five per cent. of the area of the upstream walls permits of percolation the total percolation area is 60 x (0.88' plus 4') = 60 x 4.88 = say 293 square feet, which gives a unit flow of almost 0.6 gallons per square foot per minute, as against 0.5 gallons per square foot per minute in the case of the main gallery. The total flow from all the galleries is 350 gallons per minute equal to 504,000 gallons per day. When first constructed trouble was experienced by the passage of sand from the upper galleries into the main gallery and outlet well. This was to be expected whilst the works were new; but now that the sand and gravel around the galleries has become consolidated the trouble has ceased.
 
@@ -13,3 +14,5 @@ SUPPLY MAINS.
 The supply main consists of 20,930 feet of eight-inch diameter cast-iron piping. From the intake the pipe line passes down the narrow valley of the Upper Iva River and at one mile joins the Iva Valley branch of the Nigerian Eastern Railway (Colliery Sidings). It follows the track for a distance of one mile and then passes across country through two inverted syphons to the reservoir. (Fig. 10).
 
 The working level at the intake is 973.8 feet above S.N.S. datum and the outlet level at the receiving tank 824.4 feet above datum. The hydraulic gradient therefore is 1 in 140.1.
+
+ ← Previous: [Page 03](imgew03.md); Next: → [Page 05](imgew05.md); Back to: [Index](../combined.md)
