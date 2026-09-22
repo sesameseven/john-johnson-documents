@@ -1,4 +1,6 @@
 Appendix "B"
+ ← Previous: [Page 12](imgew12.md); Next: → [Page 14](imgew14.md); Back to: [Index](../combined.md)
+ 
 SCHEDULE OF DETAIL COSTS OF SECTIONS OF THE WORKS AND UNIT COSTS.
 
 | Section of Works | Labour | Materials | Total |
@@ -24,3 +26,5 @@ SCHEDULE OF DETAIL COSTS OF SECTIONS OF THE WORKS AND UNIT COSTS.
 
 †
 These items were not paid from the funds allocated for the work; but from the relative votes in the recurrent and Extraordinary Estimates respectively.
+
+ ← Previous: [Page 12](imgew12.md); Next: → [Page 14](imgew14.md); Back to: [Index](../combined.md)
