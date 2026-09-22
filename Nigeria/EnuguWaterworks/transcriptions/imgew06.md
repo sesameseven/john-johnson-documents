@@ -1,4 +1,5 @@
 ## Page 06
+← Previous: [Page 05](imgew05.md); Next: → [Page 07](imgew07.md); Back to: [Index](../combined.md)
 
 The Chezy formula is the most reliable one to use generally; the others are inclined to give too high results in the case of small size pipes, although they are the more accurate when considering larger sizes of pipes.
 
@@ -17,3 +18,5 @@ The work of transport, excavation, and filling in the trench was let out to cont
 GAUGE TANK, RECEIVING TANK AND RESERVOIR.
 
 The supply main empties into a covered gauge tank, six feet by six feet by four feet from which water passes over a “V” notch into a covered receiving tank, twelve feet by twelve feet by seven feet. The receiving tank is connected to the reservoir by a ten-inch diameter pipe (Figs. 8 and 9). The reservoir is 100 feet square, eighteen feet deep with a capacity of 930,000 gallons. Connected to the gauge tank is a still water chamber for the float of a Lea’s Recorder and Integrating Machine capable of registering a flow of 25,000 gallons per hour.
+
+← Previous: [Page 05](imgew05.md); Next: → [Page 07](imgew07.md); Back to: [Index](../combined.md)
