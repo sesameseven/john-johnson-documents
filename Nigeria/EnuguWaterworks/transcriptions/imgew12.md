@@ -1,4 +1,6 @@
 ## page12
+← Previous: [Page 11](imgew11.md); Next: → [Page 13](imgew13.md); Back to: [Index](../combined.md)
+
 REPORT OF ANALYSIS.
 
 Description of Samples.—Enugu Waters. Taken 28/12/27
@@ -36,3 +38,5 @@ Assistant Government Analyst.
 CUSTOMS HOUSE,
 LAGOS.
 27th January, 1927.
+
+← Previous: [Page 11](imgew11.md); Next: → [Page 13](imgew13.md); Back to: [Index](../combined.md)
