@@ -1,4 +1,5 @@
 ## Page08
+← Previous: [Page 07](imgew07.md); Next: → [Page 09](imgew09.md); Back to: [Index](../combined.md)
 
 The roof was laid in sections measuring fifty feet by twenty feet separated by expansion joints composed of bitumen and coal tar. The roof was finally covered with nine inches of earth planted with Bahama grass.
 
@@ -21,3 +22,5 @@ Situated on the line of the ten-inch service main and inside the reservoir compo
 COMPENSATION WATER.
 
 Although the intake works provide for the reception of all the water from the springs in the main grotto, there are several small springs below the main gallery which are used by the people from surrounding villages for drinking and washing purposes. Before the intake works were commenced and in order to compensate the local population in some measure for depriving them of the main stream from the grotto, a concrete bathing pool was constructed. The pool was supplied by a well six feet diameter and fifteen feet deep. The sinking of this well was intended to give some information of the strata underlying the grotto; but it was not of much assistance in this respect as it was sunk mainly through a pocket of running sand.
+
+← Previous: [Page 07](imgew07.md); Next: → [Page 09](imgew09.md); Back to: [Index](../combined.md)
