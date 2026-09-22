@@ -1,4 +1,5 @@
 ## Page11
+← Previous: [Page 10](imgew10.md); Next: → [Page 12](imgew12.md); Back to: [Index](../combined.md)
 
 The consumption of the Native Town is apparently therefore
 some 95,000 gallons a day, which based on a population of 12,000
@@ -48,5 +49,6 @@ Analyst's Remarks:-
 |Yaba.   |
 |10th July, 1928.|   
 
+← Previous: [Page 10](imgew10.md); Next: → [Page 12](imgew12.md); Back to: [Index](../combined.md)
 
 
