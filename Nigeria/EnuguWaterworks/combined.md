@@ -36,5 +36,13 @@ The purpose of this combined file is to provide a single navigational index link
   <a href="transcriptions/imgew14.md">14</a> •
 </p>
 
+## Index of Figures
 
+<p align="center">
+  <a href="transcriptions/imgewfig0105.md">01-05</a> •
+  <a href="transcriptions/imgewfig0608.md">06-08</a> •
+  <a href="transcriptions/imgewfig09.md">09</a> •
+  <a href="transcriptions/imgewfig10.md">09</a> •
+  <a href="transcriptions/imgewfig11.md">09</a> •
+</p>
 
