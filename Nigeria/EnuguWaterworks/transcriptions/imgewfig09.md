@@ -3,8 +3,8 @@
 
 ## Plan of Reservoir
 <p align="center">
-  <a href="../originals/imgewfig10.jpg">
-    <img src="../originals/imgewfig10.jpg" alt="Plan of Reservoir" width="620">
+  <a href="../originals/imgewfig09.jpg">
+    <img src="../originals/imgewfig09.jpg" alt="Plan of Reservoir" width="620">
   </a>
 </p>
 <p align="center"><em>Scale 20 feet to one inch - internal size 100ft square<em></p>
