@@ -11,7 +11,7 @@ It should be realised, however, that the main gallery had to be strongly constru
 
 SUPPLY MAINS.
 
-The supply main consists of 20,930 feet of eight-inch diameter cast-iron piping. From the intake the pipe line passes down the narrow valley of the Upper Iva River and at one mile joins the Iva Valley branch of the Nigerian Eastern Railway (Colliery Sidings). It follows the track for a distance of one mile and then passes across country through two inverted syphons to the reservoir. (Fig. 10).
+The supply main consists of 20,930 feet of eight-inch diameter cast-iron piping. From the intake the pipe line passes down the narrow valley of the Upper Iva River and at one mile joins the Iva Valley branch of the Nigerian Eastern Railway (Colliery Sidings). It follows the track for a distance of one mile and then passes across country through two inverted syphons to the reservoir. ([Fig. 10](imgewfig10.md)).
 
 The working level at the intake is 973.8 feet above S.N.S. datum and the outlet level at the receiving tank 824.4 feet above datum. The hydraulic gradient therefore is 1 in 140.1.
 
