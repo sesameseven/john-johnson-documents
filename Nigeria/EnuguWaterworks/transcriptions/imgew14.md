@@ -27,5 +27,5 @@
 
 N.B.—The Cost for mains includes the value of broken and cracked pipes.
 
-← Previous: [Page 13](imgew13.md); Next: → [Index](../combined.md); Back to: [Index](../combined.md)
+← Previous: [Page 13](imgew13.md); Next: → [Figures 1-5](imagewfig0105.md); Back to: [Index](../combined.md)
 
