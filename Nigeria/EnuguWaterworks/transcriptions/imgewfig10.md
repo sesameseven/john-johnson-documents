@@ -1,4 +1,6 @@
 ## Figure10
+← Previous: [Figure 9](imgewfig09.md); Next: → [Figure 11](imgewfig11.md); Back to: [Index](../combined.md)
+
 ## Longditudinal Section of 8" dia. Supply Main
 <p align="center">
   <a href="../originals/imgewfig10.jpg">
