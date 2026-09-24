@@ -10,7 +10,7 @@ The African population can only be estimated from the figures disclosed by the l
 
 The largest industrial consumption is that by the Railway Workshops, which are estimated to require 100,000 gallons per day when working at maximum capacity.
 
-Figure 11 shows in diagrammatic form, particulars of actual consumption as measured by the six-inch meter. This diagram indicates how consumption increases as Africans become accustomed to the proximity of an adequate and potable supply.
+[Figure 11](imgewfig11.md) shows in diagrammatic form, particulars of actual consumption as measured by the six-inch meter. This diagram indicates how consumption increases as Africans become accustomed to the proximity of an adequate and potable supply.
 
 Capital expenditure on works, excluding preliminary investigation the cost of which is not known, is as follows:—
 
