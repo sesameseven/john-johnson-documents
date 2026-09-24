@@ -1,7 +1,7 @@
 ## Page07
 ← Previous: [Page 06](imgew06.md); Next: → [Page 08](imgew08.md); Back to: [Index](../combined.md)
 
-The receiving tank is provided with an overflow at the same level as that of the reservoir, and the ten-inch pipe connecting the receiving tank and reservoir is fitted with a branch from which a ten-inch pipe connects with the pipe leading from the reservoir outlet. When shut down for cleaning, the reservoir can be “by-passed” by this pipe, the receiving tank acting as a reservoir for the time being. Figure 9 shows the arrangement of gauge and receiving tanks and piping in relation to the reservoir.
+The receiving tank is provided with an overflow at the same level as that of the reservoir, and the ten-inch pipe connecting the receiving tank and reservoir is fitted with a branch from which a ten-inch pipe connects with the pipe leading from the reservoir outlet. When shut down for cleaning, the reservoir can be “by-passed” by this pipe, the receiving tank acting as a reservoir for the time being. [Figure 9](imgewfig09.md) shows the arrangement of gauge and receiving tanks and piping in relation to the reservoir.
 
 A feature of the reservoir design, rendered possible by the excellent nature of the ground, is the dished floor, which effects a considerable saving in the cost of foundations of the gravity side walls in reducing their height by four feet. The floor was laid in two thicknesses of four and a half inches each. The first layer was thoroughly brushed and coated with a mixture composed of four parts bitumen to one part of coal tar. The toe of the side walls is protected by a berm two feet wide.
 
