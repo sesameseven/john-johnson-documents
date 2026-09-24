@@ -18,7 +18,7 @@ unit costs are shown in Appendix " B".
 
 ---
 
-APPENDIX "A"
+**APPENDIX "A"**
 
 CHEMICAL ANALYSIS OF A SAMPLE OF WATER FROM THE NGWO SPRINGS.
 
