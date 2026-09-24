@@ -1,4 +1,5 @@
-Appendix "B"
+## APPENDIX "B"
+
  ← Previous: [Page 12](imgew12.md); Next: → [Page 14](imgew14.md); Back to: [Index](../combined.md)
  
 SCHEDULE OF DETAIL COSTS OF SECTIONS OF THE WORKS AND UNIT COSTS.
