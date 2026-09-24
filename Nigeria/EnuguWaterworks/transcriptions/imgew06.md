@@ -17,6 +17,6 @@ The work of transport, excavation, and filling in the trench was let out to cont
 
 GAUGE TANK, RECEIVING TANK AND RESERVOIR.
 
-The supply main empties into a covered gauge tank, six feet by six feet by four feet from which water passes over a “V” notch into a covered receiving tank, twelve feet by twelve feet by seven feet. The receiving tank is connected to the reservoir by a ten-inch diameter pipe (Figs. 8 and 9). The reservoir is 100 feet square, eighteen feet deep with a capacity of 930,000 gallons. Connected to the gauge tank is a still water chamber for the float of a Lea’s Recorder and Integrating Machine capable of registering a flow of 25,000 gallons per hour.
+The supply main empties into a covered gauge tank, six feet by six feet by four feet from which water passes over a “V” notch into a covered receiving tank, twelve feet by twelve feet by seven feet. The receiving tank is connected to the reservoir by a ten-inch diameter pipe ([Figs. 8](imgewfig0608.md) and [9](imgewfig09.md)). The reservoir is 100 feet square, eighteen feet deep with a capacity of 930,000 gallons. Connected to the gauge tank is a still water chamber for the float of a Lea’s Recorder and Integrating Machine capable of registering a flow of 25,000 gallons per hour.
 
 ← Previous: [Page 05](imgew05.md); Next: → [Page 07](imgew07.md); Back to: [Index](../combined.md)
